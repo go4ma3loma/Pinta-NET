@@ -1,0 +1,12 @@
+C:\Users\foued\Desktop\Pinta\bin\Pinta.Docking.dll.config
+C:\Users\foued\Desktop\Pinta\bin\Pinta.Docking.dll
+C:\Users\foued\Desktop\Pinta\bin\Pinta.Docking.pdb
+C:\Users\foued\Desktop\Pinta\Pinta.Docking\obj\Debug\Pinta.Docking.dll
+C:\Users\foued\Desktop\Pinta\Pinta.Docking\obj\Debug\Pinta.Docking.pdb
+C:\Users\foued\Desktop\Pinta\Pinta.Docking\obj\Debug\Pinta.Docking.csprojResolveAssemblyReference.cache
+C:\Users\foued\Desktop\Pinta .NET SRC\bin\Pinta.Docking.dll.config
+C:\Users\foued\Desktop\Pinta .NET SRC\bin\Pinta.Docking.dll
+C:\Users\foued\Desktop\Pinta .NET SRC\bin\Pinta.Docking.pdb
+C:\Users\foued\Desktop\Pinta .NET SRC\Pinta.Docking\obj\Debug\Pinta.Docking.csprojResolveAssemblyReference.cache
+C:\Users\foued\Desktop\Pinta .NET SRC\Pinta.Docking\obj\Debug\Pinta.Docking.dll
+C:\Users\foued\Desktop\Pinta .NET SRC\Pinta.Docking\obj\Debug\Pinta.Docking.pdb
