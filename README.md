@@ -1,5 +1,8 @@
 # Pinta-NET C#
 
+![Capture d’écran 2020-11-22 213349](https://user-images.githubusercontent.com/23019561/99919243-85ad6680-2d1c-11eb-8fc5-fac34a061bd7.png)
+
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
