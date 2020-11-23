@@ -1,5 +1,6 @@
 # Pinta-NET C#
-Install [Gtk#-2.12.45](https://xamarin.azureedge.net/GTKforWindows/Windows/gtk-sharp-2.12.44.msi) and [Microsoft .NET Framework 4.5](https://www.microsoft.com/en-us/download/confirmation.aspx?id=30653)
+# Build [Pinta-NET](https://github.com/Pinta-NET/PintaNET/releases)
+Install Pinta-NET [Gtk#-2.12.45](https://xamarin.azureedge.net/GTKforWindows/Windows/gtk-sharp-2.12.44.msi) and [Microsoft .NET Framework 4.5](https://www.microsoft.com/en-us/download/confirmation.aspx?id=30653) and [Microsoft Visual C++ 2013 Redistributable (x86)](https://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x86.exe)
 # Install Visual Studio 2013
 ![Capture d’écran 2020-11-22 213349](https://user-images.githubusercontent.com/23019561/99919243-85ad6680-2d1c-11eb-8fc5-fac34a061bd7.png)
 
